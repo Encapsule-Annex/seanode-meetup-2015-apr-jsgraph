@@ -12,7 +12,7 @@ April's talk will be about modeling concepts and solving complex day-to-day prob
 
 ## Speaker Bio
 
-Chris Russell is a developer and entrepreneur with a passion for design patterns, and programming metaphors. He is currently starting a new venture out of the HUB in Bellevue, WA. Stop by and say hello!
+Chris Russell is a developer and entrepreneur with a passion for design patterns and programming metaphors. He is currently starting a new venture out of the HUB in Bellevue, WA. Stop by and say hello!
 
 GitHub: [ChrisRus](https://github.com/ChrisRus) // Twitter: [AlpineLakes](https://twitter.com/AlpineLakes) // LinkedIn: [chrisrussell](https://www.linkedin.com/in/chrisrussell)
 
