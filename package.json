@@ -1,7 +1,7 @@
 {
   "name": "seanode-meetup-2015-apr-jsgraph",
   "version": "0.0.1",
-  "description": "2015.04 Seattle Node.js: Solving Complicated Problems With Graphs",
+  "description": "2015.04 Seattle Node.js: Solving Day-to-Day Problems With Graphs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
