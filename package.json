@@ -1,0 +1,23 @@
+{
+  "name": "seanode-meetup-2015-apr-jsgraph",
+  "version": "0.0.1",
+  "description": "2015.04 Seattle Node.js: Solving Complicated Problems With Graphs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisRus/seanode-meetup-2015-apr-jsgraph.git"
+  },
+  "keywords": [
+    "seanode",
+    "jsgraph"
+  ],
+  "author": "ChrisRus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisRus/seanode-meetup-2015-apr-jsgraph/issues"
+  },
+  "homepage": "https://github.com/ChrisRus/seanode-meetup-2015-apr-jsgraph"
+}
