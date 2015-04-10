@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ChrisRus/seanode-meetup-2015-apr-jsgraph/issues"
   },
-  "homepage": "https://github.com/ChrisRus/seanode-meetup-2015-apr-jsgraph"
+  "homepage": "https://github.com/ChrisRus/seanode-meetup-2015-apr-jsgraph",
+  "dependencies": {
+    "murmurhash-js": "^1.0.0"
+  }
 }
