@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/ChrisRus/seanode-meetup-2015-apr-jsgraph",
   "dependencies": {
+    "jsgraph": "^0.3.0",
     "murmurhash-js": "^1.0.0"
   }
 }
