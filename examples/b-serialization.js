@@ -23,5 +23,20 @@ var json = { "jsgraph":
            };
 
 var digraph = new jsgraph.DirectedGraph(json);
-console.log(digraph.toJSON());
 
+console.log("INITIAL GRAPH DATA DUMP");
+console.log(digraph.toJSON(undefined,4));
+
+var moreGraphData = { jsgraph: { version: "0.3.0", directed: {
+    vertices: [
+        { vid: "another" },
+        { vid: "something else" }
+    ],
+    edges: [
+        { uid: "evening", vid: "another" }
+    ]
+}}};
+
+console.log("POST JSON DATA IMPORT DUMP");
+digraph.importJSON(moreGraphData);
+console.log(digraph.toJSON(undefined,4));
